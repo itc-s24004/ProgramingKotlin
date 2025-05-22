@@ -1,4 +1,4 @@
-package 50
+package chap50
 
 fun main(args: Array<String>) {
     repeat(10) {
